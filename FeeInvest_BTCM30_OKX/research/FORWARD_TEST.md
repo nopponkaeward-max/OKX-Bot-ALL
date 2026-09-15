@@ -381,3 +381,10 @@ the historical cache rather than only the last 299 bars.
   spread across multiple bars, so no single bar met the 3×ATR climax
   condition).
 - Running tally: **1W / 0L** (+1,821.7 pts).
+
+## Check #43 — 2026-09-15 00:5x UTC
+
+- Data: last 299 confirmed 30m bars (2026-09-08 → 2026-09-15), OKX API.
+- Price ~77,992 (down from check #42's 79,106; BTC pulled back from rally).
+- Open trades to resolve: none. New signals: **none**.
+- Running tally: **1W / 0L** (+1,821.7 pts).
