@@ -402,3 +402,12 @@ the historical cache rather than only the last 299 bars.
 - Price ~76,916 (down from check #44's 77,245; BTC back below 77k).
 - Open trades to resolve: none. New signals: **none**.
 - Running tally: **1W / 0L** (+1,821.7 pts).
+
+## Check #46 — 2026-09-15 19:1x UTC
+
+- Data: last 299 confirmed 30m bars (2026-09-09 → 2026-09-15), OKX API.
+- Price ~75,957 (down sharply from check #45's 76,916; BTC selling off,
+  broke below 76k).
+- Open trades to resolve: none. New signals: **none** (selloff spread
+  across bars, no single bar met 3×ATR climax).
+- Running tally: **1W / 0L** (+1,821.7 pts).
