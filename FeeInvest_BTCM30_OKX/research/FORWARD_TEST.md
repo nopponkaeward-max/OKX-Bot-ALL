@@ -560,3 +560,11 @@ the historical cache rather than only the last 299 bars.
   below 80.5k).
 - Open trades to resolve: none. New signals: **none**.
 - Running tally: **1W / 0L** (+1,821.7 pts).
+
+## Check #65 — 2026-09-20 13:5x UTC
+
+- Data: last 299 confirmed 30m bars (2026-09-14 → 2026-09-20), OKX API.
+- Price ~80,468 (up slightly from check #64's 80,370; BTC stabilizing
+  near 80.5k).
+- Open trades to resolve: none. New signals: **none**.
+- Running tally: **1W / 0L** (+1,821.7 pts).
