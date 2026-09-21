@@ -600,3 +600,11 @@ the historical cache rather than only the last 299 bars.
   +4.5% in ~6 hours, breaking above 85k).
 - Open trades to resolve: none. New signals: **none**.
 - Running tally: **1W / 0L** (+1,821.7 pts).
+
+## Check #70 — 2026-09-21 20:1x UTC
+
+- Data: last 299 confirmed 30m bars (2026-09-15 → 2026-09-21), OKX API.
+- Price ~86,452 (up from check #69's 85,425; BTC continues climbing,
+  now above 86k — up ~6.6% from yesterday's 81k level).
+- Open trades to resolve: none. New signals: **none**.
+- Running tally: **1W / 0L** (+1,821.7 pts).
