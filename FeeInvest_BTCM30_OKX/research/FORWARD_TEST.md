@@ -592,3 +592,11 @@ the historical cache rather than only the last 299 bars.
   above 81.7k in the Asian session).
 - Open trades to resolve: none. New signals: **none**.
 - Running tally: **1W / 0L** (+1,821.7 pts).
+
+## Check #69 — 2026-09-21 14:0x UTC
+
+- Data: last 299 confirmed 30m bars (2026-09-15 → 2026-09-21), OKX API.
+- Price ~85,425 (sharp rally from check #68's 81,700; BTC surged
+  +4.5% in ~6 hours, breaking above 85k).
+- Open trades to resolve: none. New signals: **none**.
+- Running tally: **1W / 0L** (+1,821.7 pts).
